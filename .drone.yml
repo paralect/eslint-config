@@ -1,0 +1,8 @@
+pipeline:
+  publish-eslint-config:
+    image: plugins/npm
+    username: $$npm_username
+    email: $$npm_email
+    password: $$npm_password
+    when:
+      event: tag
