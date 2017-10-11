@@ -1,6 +1,6 @@
 {
   "name": "@paralect/eslint-config",
-  "version": "0.1.2",
+  "version": "0.1.2.1",
   "author": "Paralect",
   "description": "Paralect ESLint config",
   "private": false,
