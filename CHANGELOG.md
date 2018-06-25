@@ -1,3 +1,7 @@
+## v0.2.0 (2018-25-06)
+
+* Use version of `eslint-config-airbnb`
+
 ## v0.1.5 (2017-11-05)
 
 * Use versions of dependencies with caret
