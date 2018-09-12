@@ -1,3 +1,8 @@
+## v1.0.0 (2018-12-09)
+
+* Update `eslint-config-airbnb`
+* Removed the support for Node 4
+
 ## v0.2.0 (2018-25-06)
 
 * Use version of `eslint-config-airbnb`
