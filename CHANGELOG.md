@@ -1,3 +1,7 @@
+## v1.1.0 (2019-06-25)
+
+* Update dependencies
+
 ## v1.0.0 (2018-12-09)
 
 * Update `eslint-config-airbnb`
